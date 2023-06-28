@@ -1,8 +1,5 @@
 # Hotel management system using php and mysql.
 
-## Update 13th October 2021
-* This project was made hastily with all knowledge of php that I had at that time. This is functional but poorly written code.
-* Was developed on Windows and will work on windows. Has not been tested on linux!
 
 ## HOW TO USE
 * **Install** [Xampp](https://www.apachefriends.org/download.html)
